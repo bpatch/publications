@@ -28,7 +28,7 @@ with Yoni Nazarathy and Thomas Taimre
 ## Refereed conference proceedings
 
 **Simulating population-size-dependent birth-and-death processes using CUDA and piecewise approximations**  
-with Sophie Hautphenne
+with Sophie Hautphenne  
 *Modsim 2021, Sydney, Australia*  
 [pdf](https://github.com/bpatch/publications/blob/main/psdbdp_simulation.pdf) - [code]()  
 
