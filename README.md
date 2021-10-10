@@ -13,7 +13,7 @@ with Thomas Taimre
 **Detecting Markov chain instability: a Monte Carlo approach**  
 with Michel Mandjes and Neil Walton  
 *Stochastic Systems (2017)*  
-[online](https://pubsonline.informs.org/doi/pdf/10.1287/stsy.2017.0003) - [arXiv](https://arxiv.org/abs/1608.03257) - [pdf](https://github.com/bpatch/publications/blob/main/MandjesPatchWalton2017.pdf) - [code]()  
+[online](https://pubsonline.informs.org/doi/pdf/10.1287/stsy.2017.0003) - [arXiv](https://arxiv.org/abs/1608.03257) - [pdf](https://github.com/bpatch/publications/blob/main/MandjesPatchWalton2017.pdf) - [code](https://github.com/bpatch/Markov-Chain-Instability)  
 
 **Modelling livelihoods and household resilience to droughts using Bayesian networks**  
 with Wendy S. Merritt, V. Ratna Reddy and Geoffrey J. Syme  
@@ -35,12 +35,12 @@ with Sophie Hautphenne
 **Analyzing large frequency disruptions in power systems using large deviations theory**  
 with Bert Zwart  
 *Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
-[online](https://ieeexplore.ieee.org/document/9183551) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-frequency-disruptions.pdf) - [code]()  
+[online](https://ieeexplore.ieee.org/document/9183551) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-frequency-disruptions.pdf) - [code](https://github.com/bpatch/power-system-frequency-deviations)  
 
 **Ranking transmission lines by overload probability using the empirical rate function**  
 with Bert Zwart  
 *Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
-[online](https://ieeexplore.ieee.org/document/9183567) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-tail-rank.pdf) - [code]()  
+[online](https://ieeexplore.ieee.org/document/9183567) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-tail-rank.pdf) - [code](https://github.com/bpatch/power-system-line-rank)  
 
 **Evaluation of a self-organized traffic light policy** 
 with Michelle Borm, Thomas Taimre, Ivo Adan
@@ -80,5 +80,5 @@ with Sophie Hautphenne
 
 **Optimisation of stochastic networks with blocking: a functional-form approach**  
 with Mark S. Squillante and Peter M. Van de Ven  
-[arXiv](https://arxiv.org/pdf/1904.05040v2.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/PatchSquillanteVandeVen2019.pdf) - [code]()  
+[arXiv](https://arxiv.org/pdf/1904.05040v2.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/PatchSquillanteVandeVen2019.pdf) - [code](https://github.com/bpatch/stochastic-networks-with-blocking)  
 
