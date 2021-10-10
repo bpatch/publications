@@ -42,8 +42,8 @@ with Bert Zwart
 *Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
 [online](https://ieeexplore.ieee.org/document/9183567) - [arXiv](https://arxiv.org/abs/2002.12675) - [pdf](https://github.com/bpatch/publications/blob/main/power-system-tail-rank.pdf) - [code](https://github.com/bpatch/power-system-line-rank)  
 
-**Evaluation of a self-organized traffic light policy** 
-with Michelle Borm, Thomas Taimre, Ivo Adan
+**Evaluation of a self-organized traffic light policy**  
+with Michelle Borm, Thomas Taimre, Ivo Adan  
 *Valuetools 2015, Berlin, Germany*  
 [online](https://dl.acm.org/citation.cfm?id=2897437) - [pdf](https://github.com/bpatch/publications/blob/main/Borm2015.pdf)  
 
