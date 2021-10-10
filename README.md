@@ -27,6 +27,11 @@ online - arXiv - pdf
 
 ## Refereed conference proceedings
 
+**Simulating population-size-dependent birth-and-death processes using CUDA and piecewise approximations**  
+with Sophie Hautphenne
+*Modsim 2021, Sydney, Australia*  
+online - pdf - code  
+
 **Analyzing large frequency disruptions in power systems using large deviations theory**  
 with Bert Zwart  
 *Probabilistic Methods Applied to Power Systems 2020, Liege Belgium (Online)*  
@@ -68,6 +73,10 @@ with Wendy S. Merritt, K. V. Rao, Geoffrey J. Syme and P. D. Sreedevi
 *Chapter 12 in Integrated Assessment of Scale Impacts of Watershed Intervention (2015)*
 
 ## Reports
+
+**Birth-and-death processes in Python: the BirDePy package**  
+with Sophie Hautphenne
+online - arXiv - pdf - code  
 
 **Optimisation of stochastic networks with blocking: a functional-form approach**  
 with Mark S. Squillante and Peter M. Van de Ven  
