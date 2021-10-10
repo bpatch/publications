@@ -25,7 +25,7 @@ with Yoni Nazarathy and Thomas Taimre
 *Statistics and Probability Letters (2015)*  
 online - arXiv - pdf  
 
-##Refereed conference proceedings
+## Refereed conference proceedings
 
 **Analyzing large frequency disruptions in power systems using large deviations theory**  
 with Bert Zwart  
@@ -57,7 +57,7 @@ with Wendy Merritt, V. Ratna Reddy and Sandjit Rout
 *Modsim 2013, Adelaide, Australia*  
 online - pdf  
 
-##Book chapters
+## Book chapters
 
 **Modeling livelihood indicators and household resilience using Bayesian networks**  
 with Wendy S. Merritt, V. Ratna Reddy, Sandjit Rout and Geoffrey J. Syme  
@@ -67,7 +67,7 @@ with Wendy S. Merritt, V. Ratna Reddy, Sandjit Rout and Geoffrey J. Syme
 with Wendy S. Merritt, K. V. Rao, Geoffrey J. Syme and P. D. Sreedevi
 *Chapter 12 in Integrated Assessment of Scale Impacts of Watershed Intervention (2015)*
 
-##Reports
+## Reports
 
 **Optimisation of stochastic networks with blocking: a functional-form approach**  
 with Mark S. Squillante and Peter M. Van de Ven  
