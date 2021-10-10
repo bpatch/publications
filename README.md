@@ -69,7 +69,7 @@ with Wendy S. Merritt, V. Ratna Reddy, Sandjit Rout and Geoffrey J. Syme
 *Chapter 9 in Integrated Assessment of Scale Impacts of Watershed Intervention (2015)*  
 
 **Exploring impacts of climate, land use, and policy intervention scenarios on water resources, livelihoods, and resilience**  
-with Wendy S. Merritt, K. V. Rao, Geoffrey J. Syme and P. D. Sreedevi
+with Wendy S. Merritt, K. V. Rao, Geoffrey J. Syme and P. D. Sreedevi  
 *Chapter 12 in Integrated Assessment of Scale Impacts of Watershed Intervention (2015)*
 
 ## Reports
