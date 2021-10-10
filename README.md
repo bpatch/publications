@@ -44,7 +44,7 @@ with Bert Zwart
 
 **Evaluation of a self-organized traffic light policy** 
 with Michelle Borm, Thomas Taimre, Ivo Adan
-*Valuetools 2015, Berlin, Germany*
+*Valuetools 2015, Berlin, Germany*  
 [online](https://dl.acm.org/citation.cfm?id=2897437) - [pdf](https://github.com/bpatch/publications/blob/main/Borm2015.pdf)  
 
 **Performance of faulty loss systems with persistent connections**  
