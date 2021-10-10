@@ -4,7 +4,7 @@ Journal articles
 Networks of infinite-server queues with multiplicative transitions
 with Dieter Fiems and Michel Mandjes
 Performance Evaluation (2018).
-online - arXiv - `pdf <https://github.com/bpatch/publications/blob/main/FiemsMandjesPatch2018.pdf>`_
+online - arXiv - [pdf](https://github.com/bpatch/publications/blob/main/FiemsMandjesPatch2018.pdf)
 
 Transient provisioning and performance evaluation for cloud computing platforms: a capacity value approach
 with Thomas Taimre
