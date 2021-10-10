@@ -79,6 +79,6 @@ with Sophie Hautphenne
 [arXiv]() - [pdf](https://github.com/bpatch/publications/blob/main/birdepy.pdf) - [code]() - [docs](https://birdepy.github.io/)  
 
 **Optimisation of stochastic networks with blocking: a functional-form approach**  
-with Mark S. Squillante and Peter M. Van de Ven  
+with Mark S. Squillante and Peter M. van de Ven  
 [arXiv](https://arxiv.org/pdf/1904.05040v2.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/PatchSquillanteVandeVen2019.pdf) - [code](https://github.com/bpatch/stochastic-networks-with-blocking)  
 
