@@ -76,7 +76,7 @@ with Wendy S. Merritt, K. V. Rao, Geoffrey J. Syme and P. D. Sreedevi
 
 **Birth-and-death processes in Python: the BirDePy package**  
 with Sophie Hautphenne
-[arXiv]() - [pdf](https://github.com/bpatch/publications/blob/main/birdepy.pdf) - [code]() - [docs](https://birdepy.github.io/)  
+[arXiv](https://arxiv.org/pdf/2110.05067.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/birdepy.pdf) - [code](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy) - [docs](https://birdepy.github.io/)  
 
 **Optimisation of stochastic networks with blocking: a functional-form approach**  
 with Mark S. Squillante and Peter M. van de Ven  
