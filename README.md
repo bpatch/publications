@@ -74,7 +74,7 @@ with Wendy S. Merritt, K. V. Rao, Geoffrey J. Syme and P. D. Sreedevi
 
 ## Reports
 
-**Birth-and-death processes in Python: the BirDePy package**  
+**Birth-and-death processes in Python: The BirDePy package**  
 with Sophie Hautphenne
 [arXiv](https://arxiv.org/pdf/2110.05067.pdf) - [pdf](https://github.com/bpatch/publications/blob/main/birdepy.pdf) - [code](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy) - [docs](https://birdepy.github.io/)  
 
