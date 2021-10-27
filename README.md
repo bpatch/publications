@@ -1,3 +1,7 @@
+I am a research mathematician turned data scientist with over nine years of experience working in advanced statistical analytics. I have developed and communicated data science techniques with diverse multi-disciplinary teams in Australia and Europe. I actively foster mature constructive relationships with stakeholders to share knowledge, encourage learning and solve challenging problems, in particular thosewith a focus on real world impact.
+
+Recently I have been working on the new Python package BirDePy, which is documented [here](https://birdepy.github.io). The source code is stored [here](https://github.com/birdepy/birdepy_project/tree/main/src/birdepy). 
+
 ## Journal articles
 
 **Networks of infinite-server queues with multiplicative transitions**  
